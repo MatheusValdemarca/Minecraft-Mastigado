@@ -1,0 +1,21 @@
+filename = 'EasyMagic-v21.11.0-mc1.21.11-NeoForge.jar'
+name = 'Easy Magic'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.11.0'
+
+[download]
+hash = 'bf2d9e00a75494bf8595dd115860fda87bbdee52d8b428144eb7140a53d489c4526c9d5a7517668108a2d6f5eb521637005b86d3584aa8a0af2e45939d5490ed'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9hx3AbJM/versions/BMphp8RQ/EasyMagic-v21.11.0-mc1.21.11-NeoForge.jar'
+
+[update.modrinth]
+mod-id = '9hx3AbJM'
+version = 'BMphp8RQ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'

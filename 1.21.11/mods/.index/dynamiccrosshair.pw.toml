@@ -1,0 +1,33 @@
+filename = 'dynamiccrosshair-9.11+1.21.11-neoforge.jar'
+name = 'Dynamic Crosshair'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '9.11+1.21.11-neoforge'
+
+[download]
+hash = '9d693dcc78556454fcdb2986fc2fb929b240524339326ca452c52bcd5dea421147fa4f6e7ae3f04eb8692883eac55dd3d353c7bb755956f7cbdb301ae7e3faa6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZcR9weSm/versions/2EOxsCPp/dynamiccrosshair-9.11%2B1.21.11-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'ZcR9weSm'
+version = '2EOxsCPp'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1eAoo2KR'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'EwPIWPJ9'
+type = 'OPTIONAL'

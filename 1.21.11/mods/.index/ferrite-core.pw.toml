@@ -1,0 +1,18 @@
+filename = 'ferritecore-8.2.0-neoforge.jar'
+name = 'FerriteCore'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '8.2.0-neoforge'
+
+[download]
+hash = '83f402ab8c5cd4aa28ad922af0c8ecd82daecc9e7faf7475ebfa999f3cf76005aab2170a64cb616ae4e6e36a82b1265cb0167454e0211c8724e02fd3bc23721b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uXXizFIs/versions/mLI5k2Gi/ferritecore-8.2.0-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'uXXizFIs'
+version = 'mLI5k2Gi'

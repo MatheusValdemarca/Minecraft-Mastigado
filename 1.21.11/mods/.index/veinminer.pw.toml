@@ -1,0 +1,25 @@
+filename = 'veinminer-neoforge-2.10.1+1.21.11.jar'
+name = 'VeinMiner'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.10.1'
+
+[download]
+hash = 'f465737ded7dd7cf0f7ab7cdce0ed95b42ea983e8a8330d46a38ad2f514d34a6f3824472b36d4d8e9b4df1c21c0bcbba06da6ec22c322dd1dd4be752fdfca2a8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OhduvhIc/versions/jsTSIKdk/veinminer-neoforge-2.10.1%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'OhduvhIc'
+version = 'jsTSIKdk'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1vrSzlao'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'dxa0Bm8m'
+type = 'OPTIONAL'

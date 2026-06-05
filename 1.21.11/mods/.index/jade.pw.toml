@@ -1,0 +1,21 @@
+filename = 'Jade-1.21.11-NeoForge-21.1.7.jar'
+name = 'Jade 🔍'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.1.7+neoforge'
+
+[download]
+hash = '0ced9be214e2bfd3d5afe9cff1cd3e243de7f8ca3d4b9fe773f5019bfd9f831a31a5f185865cd94688294a8375ed142c52be2ccb565bfc38c4623d18c2c265c4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nvQzSEkH/versions/LDFqgwEA/Jade-1.21.11-NeoForge-21.1.7.jar'
+
+[update.modrinth]
+mod-id = 'nvQzSEkH'
+version = 'LDFqgwEA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

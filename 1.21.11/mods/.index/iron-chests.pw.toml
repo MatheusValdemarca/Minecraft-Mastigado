@@ -1,0 +1,18 @@
+filename = 'ironchest-1.21.11-neoforge-16.7.3.jar'
+name = 'Iron Chests'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.11-neoforge-16.7.3'
+
+[download]
+hash = '61cad91c4c4461313172ee7cf29490593f7c6bd849de34255c5e2321b9f76df02ef1739451c491850a04bdfcfadbef9ab02854e140e2a53f61355bf2995f66c0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P3iIrPH3/versions/PMZZMWdH/ironchest-1.21.11-neoforge-16.7.3.jar'
+
+[update.modrinth]
+mod-id = 'P3iIrPH3'
+version = 'PMZZMWdH'

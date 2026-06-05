@@ -1,0 +1,44 @@
+filename = 'SodiumTranslations.zip'
+name = 'Translations for Sodium'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v7.11.0'
+
+[download]
+hash = '4e65c5f1efe63b766c17b943da8707659b3ecbcd687b692d55f8bc30f00468b1439d3566896080a1e5184eb90ffb2031afe3426425af7e707f5643b1659b11df'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yfDziwn1/versions/iA9H7gau/SodiumTranslations.zip'
+
+[update.modrinth]
+mod-id = 'yfDziwn1'
+version = 'iA9H7gau'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'AANobbMI'
+type = 'REQUIRED'

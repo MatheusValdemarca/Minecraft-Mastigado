@@ -1,0 +1,37 @@
+filename = 'toms_storage-1.21.11-2.8.0.jar'
+name = "Tom's Simple Storage Mod"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.11-2.8.0'
+
+[download]
+hash = '3a8c9e60fc21d8f3f944785eb1ca43bfd753170747eff7227828f87ef6f832e90e7e5a21730c281edcbdc01d663374d7b1fa077f265050435c6c7916cc7e3e54'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XZNI4Cpy/versions/J63C1Uex/toms_storage-1.21.11-2.8.0.jar'
+
+[update.modrinth]
+mod-id = 'XZNI4Cpy'
+version = 'J63C1Uex'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hMlaZH8f'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nfn13YXA'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'fRiHVvU7'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'tagwiZkJ'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

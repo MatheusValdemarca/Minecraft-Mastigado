@@ -1,0 +1,18 @@
+filename = 'notenoughanimations-neoforge-1.12.3-mc1.21.11.jar'
+name = 'Not Enough Animations'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.12.3'
+
+[download]
+hash = '99b1d32742400de9fed5b71134e1f48bcc7a484845d52a2c7096047ae1d21149d623583053f91e23d93e142f31db52712322dc100c35aac7e5e2c00de1b47eea'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/MPCX6s5C/versions/XQHzQgmS/notenoughanimations-neoforge-1.12.3-mc1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'MPCX6s5C'
+version = 'XQHzQgmS'

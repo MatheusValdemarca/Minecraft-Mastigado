@@ -1,0 +1,21 @@
+filename = 'EasyAnvils-v21.11.0-mc1.21.11-NeoForge.jar'
+name = 'Easy Anvils'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '21.11.0'
+
+[download]
+hash = 'ece9f015cd78e872f682e23972b819c3fb1cb957c69f829b5bb88f83e74618d11172b22dfe386a9a27d073adc56af7816cc80a53e79a52c030ab560c5ed99ab8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OZBR5JT5/versions/3jkal6PY/EasyAnvils-v21.11.0-mc1.21.11-NeoForge.jar'
+
+[update.modrinth]
+mod-id = 'OZBR5JT5'
+version = '3jkal6PY'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'QAGBst4M'
+type = 'REQUIRED'
