@@ -25,9 +25,9 @@ Você tem duas opções para instalar o modpack: o jeito mágico (automático) o
 Não quer ter o trabalho de baixar dezenas de mods e pastas zipadas? Deixe o **AutoModpack** fazer todo o trabalho por você!
 
 1. Instale a versão exata do **NeoForge 1.21.11** no seu launcher (Prism ou TLauncher).
-2. [cite_start]Baixe **APENAS** o arquivo `.jar` do mod **AutoModpack** aqui deste repositório e coloque-o dentro da sua pasta `mods` vazia[cite: 444].
-3. [cite_start]Abra o jogo e conecte-se ao nosso servidor normalmente através da rede do Radmin VPN[cite: 445].
-4. [cite_start]**A Mágica:** O seu AutoModpack vai conversar com o servidor, fazer o download de toda a nossa lista de mods, configurações e pacotes de recursos sozinho, e depois vai reiniciar o seu jogo automaticamente, pronto para jogar[cite: 446]!
+2. Baixe **APENAS** o arquivo `.jar` do mod **AutoModpack** aqui deste repositório e coloque-o dentro da sua pasta `mods` vazia.
+3. Abra o jogo e conecte-se ao nosso servidor normalmente através da rede do Radmin VPN.
+4. **A Mágica:** O seu AutoModpack vai conversar com o servidor, fazer o download de toda a nossa lista de mods, configurações e pacotes de recursos sozinho, e depois vai reiniciar o seu jogo automaticamente, pronto para jogar!
 
 ---
 
